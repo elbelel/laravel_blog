@@ -12,9 +12,19 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('pages.index');
 });
 
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/about', function () {
+    return view ('pages.about');
+});
+
+Route::get('/contact', function () {
+    return view ('pages.contact');
+});
+
+Route::resource('posts', 'PostsController');
