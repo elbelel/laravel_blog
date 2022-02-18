@@ -20,7 +20,7 @@
                     <li class="date">{{$post->created_at}}</li>
                     <li class="byline">
                         By
-                        <a href="#0">Jonathan Doe</a>
+                        <a href="#0">{{ Auth::user()->name }}</a>
                     </li>
                 </ul>
             </div>
@@ -34,14 +34,14 @@
                     <div class="entry__author-about">
                         <h5 class="entry__author-name">
                             <span>Posted by</span>
-                            <a href="#0">Jonathan Doe</a>
+                            <b>{{ Auth::user()->name }}</b>
                         </h5>
 
                         <div class="entry__author-desc">
                             <p>
-                            Alias aperiam at debitis deserunt dignissimos dolorem doloribus, fuga fugiat 
+                            <!-- Alias aperiam at debitis deserunt dignissimos dolorem doloribus, fuga fugiat 
                             impedit laudantium magni maxime nihil nisi quidem quisquam sed ullam voluptas 
-                            voluptatum. Lorem ipsum dolor sit.
+                            voluptatum. Lorem ipsum dolor sit. -->
                             </p>
                             <a href="\" class="btn btn-primary">Go Back</a>
                             @if (!auth::guest())
