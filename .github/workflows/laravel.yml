@@ -70,6 +70,8 @@ jobs:
       
       - name: Update Composer dependencies
         run: composer update 
+      - name: Install Predis
+        run: composer require predis/predis
 
       - name: Prepare the application
         run: |
