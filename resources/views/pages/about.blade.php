@@ -29,7 +29,7 @@
 
                 
                 <p>
-                To me photography is about preople being veritable and after that allowing us to depict that moment to remember it always.This is the story that issues most: authentic people, real stories, certifiable minutes. I am incredibly happy to try my best to bring out perfect in everything I do.
+                To me photography is about people being veritable and after that allowing us to depict that moment to remember it always.This is the story that issues most: authentic people, real stories, certifiable minutes. I am incredibly happy to try my best to bring out perfect in everything I do.
 
 </p>
 
