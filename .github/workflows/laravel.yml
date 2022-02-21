@@ -11,7 +11,7 @@ jobs:
     runs-on: self-hosted
     strategy:
       matrix: 
-        php-version: '7.4'
+        php-version: [7.4]
 
     steps:
     - uses: actions/checkout@v1
