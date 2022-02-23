@@ -25,7 +25,7 @@
                 <h2>This Is My Story</h2>
 
                 <p>
-                I invest noteworthy energy in wedding photography, corporate, family and senior pictures, normally heading off to your objective to get the perfect moment in the perfect place. We will be there with you consistently your exceptional minutes are gotten until the end of time.
+                I like investing noteworthy energy in wedding photography, corporate, family and senior pictures, normally heading off to your objective to get the perfect moment in the perfect place. We will be there with you consistently your exceptional minutes are gotten until the end of time.
 
                 
                 <p>
